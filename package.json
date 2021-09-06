@@ -1,7 +1,7 @@
 {
   "name": "rtl-pokedex",
   "version": "0.1.0",
-  "homepage": "rtl-pokedex/",
+  "homepage": "https://gesse-carlos.github.io/rtl-pokedex/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
