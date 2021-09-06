@@ -1,7 +1,9 @@
+name: deploy
+
 on:
   push:
     branches:
-      - gesse-carlos-react-testing
+      - master
 
 jobs:
   deploy:
